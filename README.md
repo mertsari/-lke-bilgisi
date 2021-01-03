@@ -1,1 +1,1 @@
-# -lke-bilgisi
+# ulkebilgisi
